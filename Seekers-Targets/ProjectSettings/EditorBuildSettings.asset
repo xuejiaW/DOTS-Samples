@@ -8,7 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Step1_NoJobs.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Step2_NoJobs_Mathematics.unity
     guid: ebb39d4a2b0209945a76f46931d4b578
+  - enabled: 0
+    path: Assets/Scenes/Step3_Jobs_SingleJob.unity
+    guid: 8742e560099a73e4992007d3a02ce20b
+  - enabled: 1
+    path: Assets/Scenes/Step4_Jobs_ParallelJob.unity
+    guid: 6bdbe9b62d3487a4bbb3d995a89e3aa8
   m_configObjects: {}
