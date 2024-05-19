@@ -453,8 +453,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   seekerPrefab: {fileID: 3868831442623377715, guid: 1bb3ed22ac9456c45bcdd7c79d8b5df4, type: 3}
   targetPrefab: {fileID: 5542883156599907651, guid: 494fd92c5131d7b4c822c3fa8ccbf2e5, type: 3}
-  numSeekers: 3000
-  numTargets: 3000
+  numSeekers: 1000
+  numTargets: 1000
   bounds: {x: 500, y: 500}
 --- !u!4 &1544942591
 Transform:

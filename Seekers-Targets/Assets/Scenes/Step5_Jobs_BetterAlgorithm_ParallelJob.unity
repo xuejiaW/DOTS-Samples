@@ -419,7 +419,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1314345851}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2120c02e19009704d8a117eb554281a3, type: 3}
+  m_Script: {fileID: 11500000, guid: 66810e8368746904bbc33f14c41af1dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1544942589
@@ -453,8 +453,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   seekerPrefab: {fileID: 3868831442623377715, guid: 1bb3ed22ac9456c45bcdd7c79d8b5df4, type: 3}
   targetPrefab: {fileID: 5542883156599907651, guid: 494fd92c5131d7b4c822c3fa8ccbf2e5, type: 3}
-  numSeekers: 3000
-  numTargets: 3000
+  numSeekers: 10000
+  numTargets: 10000
   bounds: {x: 500, y: 500}
 --- !u!4 &1544942591
 Transform:
